@@ -1,0 +1,4 @@
+Solved the merge strings alternately problem where we have to merge two strings while alternating the letters into the final string.
+The algorithm used a for loop and several if conditions to check the out of bounds problem in check and resolved other issues.
+The algorithm initially took 4ms of runtime but with a little changes like changing the for with while loop to get the if conditions out and then using if outside to merge the rest of the longer string finally gave me 0ms.
+The final algorithm took 0ms of runtime and  8.50 MB of memory and it has a time complexity of O(N+M) and space complexity of O(1).
