@@ -1,0 +1,3 @@
+Solved the First Unique Character in a String problem using the ASCII conversion strategy and storing it's frequency of characters in a fixed array of size 26.
+Wrote the initial program using loops but that resulted in 30 ms runtime and 14.5 MB of memory which had a time complexity of O(N^2) and space complexity of O(1) which was too inefficient.
+The final program has a time complexity of O(N) and space complexity of O(1) which resulted in a runtime of 0ms and a memory of 14.5 MB.
