@@ -1,5 +1,4 @@
-# 30DaysLeetCode
-This is a synced repo with leetcode for a 30 day leetcode problem solving challenge
+# LeetCode Problems List
 
 **Days 1–10 (Arrays + Hashing)**
 
